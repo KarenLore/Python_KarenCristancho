@@ -18,7 +18,7 @@ def resolver():
                     # Incrementamos el contador
                     count += 1
         # Imprimimos el número de caso y el contador
-        print(f'Case {t}: {count}')
+        print(f'Case {t}: {count+1}')
 
 # Llamamos a la función solve
 resolver()
