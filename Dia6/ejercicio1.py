@@ -7,5 +7,3 @@ nodos = list(map(int,input().split()[0:300]))
 repetidos = sorted(set(nodos))
 #Imprimimos la lista de números sin duplicados y ordenada
 print(repetidos)
-
-#:300 seleccionara los primeros 300 números ingresados
