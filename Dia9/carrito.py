@@ -1,5 +1,5 @@
 carrito = [] #Lista vacía
-cantidad=int(input(f"Ingrese la cantidad de productos que deseas agregar: "))
+cantidad=int(input(f"Ingrese la cantidad de productos que deseas agregar: ")) #Cantidad de  productos que desea agregar al carrito
 print("")
 #Agregar artículos al carrito
 for i in range(cantidad):
@@ -10,7 +10,7 @@ for i in range(cantidad):
     print("Producto agregado al carrito")
     print("")
 
-#print(f"Productos agregados al carrito:\n {carrito}")
+print("==========Productos agregados al carrito===========\n ")
 contador = 0
 for i in carrito: #Imprime la lista de los productos desde la posición 0 hasta la 2
     print("Nombre ", i[0])
