@@ -6,7 +6,7 @@ for i in range(cantidad):
     nombre= input("Ingrese el nombre del producto: ")
     cantidad = int(input(f"Ingrese el precio del producto: {nombre} "))
     precio = int(input(f"Ingrese la cantidad del producto: {nombre} "))
-    carrito.append([nombre,cantidad,precio]) #Agregar contenido a la lista vacía
+    carrito.append((nombre,cantidad,precio)) #Agregar contenido a la lista vacía
     print("Producto agregado al carrito")
     print("")
 
