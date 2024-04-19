@@ -16,6 +16,6 @@ for i in carrito: #Imprime la lista de los productos desde la posición 0 hasta 
     print("Nombre ", i[0])
     print("Precio ", i[1])
     print("Cantidad ", i[2])
-    print("")
+    print("=====================")
 contador = contador +1
 
