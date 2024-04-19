@@ -21,5 +21,5 @@ print(fruta_maxima)
 # Ordenar las frutas de mayor a menor valor en stock (cantidad * precio)
 # key=lambda x: x[1] * x[2] especifica que se debe calcular el valor de la fruta en stock multiplicando el precio por la cantidad
 # reverse=True especifica que se debe ordenar en orden descendente (del más caro al más barato)
-frutas_ordenadas = sorted(frutas, key=lambda x: x[1] * x[2], reverse=True)
+frutas_ordenadas = sorted(frutas, key=lambda x: x[2] * x[1], reverse=True)
 print(frutas_ordenadas)
