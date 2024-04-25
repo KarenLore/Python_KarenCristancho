@@ -21,7 +21,7 @@ while True:
             #Recorrer la lista de eventos e imprimir cada evento con su número
             for i, evento in enumerate (lista, 1):
                 #Imprimir el tipo y el ID del evento
-                print(f"{i}. ID:{evento["id"]} - Type: {evento["type"]} - Actor{evento["actor"]} - Repo{evento["repo"]} - Login{evento["login"]} - URL{evento["url"]} - Avatar_URL{evento["avatar_url"]}")
+                print(f"{i}. ID:{evento["id"]} - Type: {evento["type"]} - Actor{evento["actor"]} - Repo{evento["repo"]} - Login{evento["login"]} - Avatar_URL{evento["avatar_url"]}")
                 print("")
 
         case "2":
