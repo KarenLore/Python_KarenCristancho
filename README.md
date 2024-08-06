@@ -183,3 +183,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > No modifiques los scripts sin comprender completamente su funcionamiento. Esto podría llevar a errores inesperados.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+   - Nombre: Karen Lorena Cristancho
+   - Email: karenlorenacriscaceres@gmail.com
