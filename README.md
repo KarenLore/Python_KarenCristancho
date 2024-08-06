@@ -27,7 +27,8 @@ sudo apt install app
 ```
 
 ``` Código realizado en:
-- python
+- Python
+- Json
 ```
 ## Sección 1 
 ### Día1 Main
